@@ -1,3 +1,5 @@
+Simple ruby RPG written in 1 night - good example of why Classes are important in ruby (attr accessors...)
+
 ---
 ---
 
